@@ -1,10 +1,26 @@
-# BETH Dataset Cyber Threat Detection
+# BETH Cyber Threat Detection
 
-**A comprehensive cybersecurity project combining SOC analysis, threat hunting, and deep learning to detect suspicious host activity using the BETH dataset.**
+A comprehensive cybersecurity project combining SOC analysis, threat hunting, and deep learning to detect suspicious host activity using the BETH dataset.  
+This repository demonstrates real-world blue-team skills, including log analysis, anomaly detection, and machine learning–based threat classification.
 
 ---
 
-## ✨ Features - SOC-style investigation of host activity - Suspicious user behavior detection - Parent/child process tree analysis - Deep learning model using PyTorch - Full detection pipeline demonstration - Visualizations for class distribution, confusion matrix, and process behavior - Clean modular code in the `src/` directory - Jupyter notebooks for step-by-step analysis ---
+## ✨ Features
+
+- SOC-style investigation of host activity  
+- Suspicious user behavior detection  
+- Parent/child process tree analysis  
+- Deep learning model using PyTorch  
+- Full detection pipeline demonstration  
+- Visualizations for class distribution, confusion matrix, and process behavior  
+- Clean modular code in the `src/` directory  
+- Jupyter notebooks for step-by-step analysis  
+
+---
+
+
+
+
 
 ## 📁 Project Structure
 ```
