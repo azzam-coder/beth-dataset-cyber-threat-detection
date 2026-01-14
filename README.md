@@ -24,7 +24,7 @@ This repository demonstrates real-world blue-team skills, including log analysis
 
 ## 📁 Project Structure
 ```
-beth-dataset-cyber-threat-detection/
+beth-cyber-threat-detection/
 │
 ├── README.md
 ├── requirements.txt
