@@ -5,8 +5,8 @@
 ---
 
 ## 📁 Project Structure
-
-```beth-dataset-cyber-threat-detection/
+```
+beth-dataset-cyber-threat-detection/
 │
 ├── README.md
 ├── requirements.txt
